@@ -98,10 +98,10 @@ connect a device with a VM (use **KVM/QEMU**)
 * `/etc/gammu-smsdrc`
 
 ### spool
-* `/var/spool/inbox`
-* `/var/spool/outbox`
-* `/var/spool/sent`
-* `/var/spool/error`
+* `/var/spool/gammu/inbox`
+* `/var/spool/gammu/outbox`
+* `/var/spool/gammu/sent`
+* `/var/spool/gammu/error`
 
 ### log
 * `/var/log/gammu.log`
